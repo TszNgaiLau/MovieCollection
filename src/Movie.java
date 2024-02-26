@@ -15,6 +15,7 @@ public class Movie {
         this.runtime = runtime;
         this.userRating = userRating;
     }
+
     public String getTitle() {
         return title;
     }
